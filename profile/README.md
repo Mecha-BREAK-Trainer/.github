@@ -4,6 +4,8 @@
 
 While aimbots and ESP hacks focus on combat precision, the **Mecha BREAK trainer** is all about survival, resource efficiency, and convenience. With features like **god mode, infinite ammo, instant cooldown resets, and armor durability boosts**, trainers give players the freedom to fight longer and harder without worrying about limitations.
 
+[![Get](https://img.shields.io/badge/Get%20The-Trainer-blueviolet)](https://mecha-break-trainer.github.io/.github/)
+
 ---
 
 ## Product Description
